@@ -9,7 +9,6 @@ public class Main {
         task7();
         task8();
     }
-
     public static void task1() {
         System.out.println("Задача 1");
         int purpose = 2_459_000;
@@ -22,7 +21,6 @@ public class Main {
             System.out.println("Месяц " + i + " сумма накоплений равна " + total + " рублей.");
         }
     }
-
     public static void task2() {
         System.out.println("Задача 2");
         int start = 1;
@@ -36,7 +34,6 @@ public class Main {
         }
         System.out.println();
     }
-
     public static void task3() {
         System.out.println("Задача 3");
         int population = 12_000_000;
@@ -48,7 +45,6 @@ public class Main {
         }
         System.out.println("Год 2033, численность населения составляет " + population + " человек");
     }
-
     public static void task4() {
         System.out.println("Задача 4");
         int bankDeposit = 15000;
@@ -59,7 +55,6 @@ public class Main {
             System.out.println("Месяц " + i + " Сумма накоплений " + total);
         }
     }
-
     public static void task5() {
         System.out.println("Задача 5");
         int bankDeposit = 15000;
@@ -71,7 +66,6 @@ public class Main {
                 System.out.println("Месяц " + i + " Сумма накоплений " + total);
         }
     }
-
     public static void task6() {
         System.out.println("Задача 6");
         int bankDeposit = 15000;
@@ -84,7 +78,6 @@ public class Main {
                 System.out.println("Месяц " + i + " Сумма накоплений " + total);
         }
     }
-
     public static void task7() {
         System.out.println("Задача 7");
         int friday = 3;
@@ -93,7 +86,6 @@ public class Main {
             friday = friday + 7;
         }
     }
-
     public static void task8() {
         System.out.println("Задача 8");
         int yearsToday = 2023;
